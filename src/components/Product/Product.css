@@ -1,0 +1,30 @@
+.product {
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    padding: 30px 0;
+    margin: 20px 0;
+}
+
+.image {
+    width: 30%;
+}
+
+.information {
+    width: 70%;
+}
+
+.information h3 {
+    color: blue;
+    font-weight: 500;
+}
+
+button {
+    width: 150px;
+    background-color: goldenrod;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 0;
+    cursor: pointer;
+
+}

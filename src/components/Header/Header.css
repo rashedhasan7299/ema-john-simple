@@ -1,0 +1,31 @@
+.header {
+    /* display: flex;
+    justify-content: center; */
+    text-align: center;
+}
+
+.header img{
+    width: 20%;
+    margin-top: 10px;
+}
+
+nav {
+    background-color: #000;
+    /* margin: 20px 0; */
+    padding: 10px;
+    text-align: left;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    font-size: 1.2rem;
+    margin: 20px 5px 20px 30px;
+    padding: 10px;
+}
+
+nav a:hover {
+    background-color: #fff;
+    color: #333;
+    font-weight: 500;
+}
